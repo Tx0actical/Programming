@@ -1,0 +1,15 @@
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Events/obj/Debug/net6.0/Events.csproj.AssemblyReference.cache
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Events/obj/Debug/net6.0/Events.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Events/obj/Debug/net6.0/Events.AssemblyInfoInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Events/obj/Debug/net6.0/Events.AssemblyInfo.cs
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Events/obj/Debug/net6.0/Events.csproj.CoreCompileInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Events/bin/Debug/net6.0/Events
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Events/bin/Debug/net6.0/Events.deps.json
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Events/bin/Debug/net6.0/Events.runtimeconfig.json
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Events/bin/Debug/net6.0/Events.dll
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Events/bin/Debug/net6.0/Events.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Events/obj/Debug/net6.0/Events.dll
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Events/obj/Debug/net6.0/refint/Events.dll
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Events/obj/Debug/net6.0/Events.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Events/obj/Debug/net6.0/Events.genruntimeconfig.cache
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Events/obj/Debug/net6.0/ref/Events.dll

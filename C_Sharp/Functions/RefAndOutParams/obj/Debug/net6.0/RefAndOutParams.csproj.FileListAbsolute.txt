@@ -1,0 +1,15 @@
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/RefAndOutParams/bin/Debug/net6.0/RefAndOutParams
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/RefAndOutParams/bin/Debug/net6.0/RefAndOutParams.deps.json
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/RefAndOutParams/bin/Debug/net6.0/RefAndOutParams.runtimeconfig.json
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/RefAndOutParams/bin/Debug/net6.0/RefAndOutParams.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/RefAndOutParams/bin/Debug/net6.0/RefAndOutParams.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOutParams.csproj.AssemblyReference.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOutParams.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOutParams.AssemblyInfoInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOutParams.AssemblyInfo.cs
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOutParams.csproj.CoreCompileInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOutParams.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/RefAndOutParams/obj/Debug/net6.0/refint/RefAndOutParams.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOutParams.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/RefAndOutParams/obj/Debug/net6.0/RefAndOutParams.genruntimeconfig.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/RefAndOutParams/obj/Debug/net6.0/ref/RefAndOutParams.dll

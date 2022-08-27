@@ -1,0 +1,15 @@
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringParsing/bin/Debug/net6.0/StringParsing
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringParsing/bin/Debug/net6.0/StringParsing.deps.json
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringParsing/bin/Debug/net6.0/StringParsing.runtimeconfig.json
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringParsing/bin/Debug/net6.0/StringParsing.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringParsing/bin/Debug/net6.0/StringParsing.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringParsing/obj/Debug/net6.0/StringParsing.csproj.AssemblyReference.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringParsing/obj/Debug/net6.0/StringParsing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringParsing/obj/Debug/net6.0/StringParsing.AssemblyInfoInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringParsing/obj/Debug/net6.0/StringParsing.AssemblyInfo.cs
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringParsing/obj/Debug/net6.0/StringParsing.csproj.CoreCompileInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringParsing/obj/Debug/net6.0/StringParsing.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringParsing/obj/Debug/net6.0/refint/StringParsing.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringParsing/obj/Debug/net6.0/StringParsing.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringParsing/obj/Debug/net6.0/StringParsing.genruntimeconfig.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringParsing/obj/Debug/net6.0/ref/StringParsing.dll

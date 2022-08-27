@@ -1,0 +1,15 @@
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/VarAndDatatypes/bin/Debug/net6.0/VarAndDatatypes
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/VarAndDatatypes/bin/Debug/net6.0/VarAndDatatypes.deps.json
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/VarAndDatatypes/bin/Debug/net6.0/VarAndDatatypes.runtimeconfig.json
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/VarAndDatatypes/bin/Debug/net6.0/VarAndDatatypes.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/VarAndDatatypes/bin/Debug/net6.0/VarAndDatatypes.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/VarAndDatatypes/obj/Debug/net6.0/VarAndDatatypes.csproj.AssemblyReference.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/VarAndDatatypes/obj/Debug/net6.0/VarAndDatatypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/VarAndDatatypes/obj/Debug/net6.0/VarAndDatatypes.AssemblyInfoInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/VarAndDatatypes/obj/Debug/net6.0/VarAndDatatypes.AssemblyInfo.cs
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/VarAndDatatypes/obj/Debug/net6.0/VarAndDatatypes.csproj.CoreCompileInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/VarAndDatatypes/obj/Debug/net6.0/VarAndDatatypes.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/VarAndDatatypes/obj/Debug/net6.0/refint/VarAndDatatypes.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/VarAndDatatypes/obj/Debug/net6.0/VarAndDatatypes.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/VarAndDatatypes/obj/Debug/net6.0/VarAndDatatypes.genruntimeconfig.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/VarAndDatatypes/obj/Debug/net6.0/ref/VarAndDatatypes.dll

@@ -1,0 +1,15 @@
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringBuilder/obj/Debug/net6.0/StringBuilder.csproj.AssemblyReference.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringBuilder/obj/Debug/net6.0/StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringBuilder/obj/Debug/net6.0/StringBuilder.AssemblyInfoInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringBuilder/obj/Debug/net6.0/StringBuilder.AssemblyInfo.cs
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringBuilder/obj/Debug/net6.0/StringBuilder.csproj.CoreCompileInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringBuilder/bin/Debug/net6.0/StringBuilder
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringBuilder/bin/Debug/net6.0/StringBuilder.deps.json
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringBuilder/bin/Debug/net6.0/StringBuilder.runtimeconfig.json
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringBuilder/bin/Debug/net6.0/StringBuilder.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringBuilder/bin/Debug/net6.0/StringBuilder.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringBuilder/obj/Debug/net6.0/StringBuilder.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringBuilder/obj/Debug/net6.0/refint/StringBuilder.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringBuilder/obj/Debug/net6.0/StringBuilder.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringBuilder/obj/Debug/net6.0/StringBuilder.genruntimeconfig.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringBuilder/obj/Debug/net6.0/ref/StringBuilder.dll

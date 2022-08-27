@@ -1,0 +1,15 @@
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/Chal/obj/Debug/net6.0/Chal.csproj.AssemblyReference.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/Chal/obj/Debug/net6.0/Chal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/Chal/obj/Debug/net6.0/Chal.AssemblyInfoInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/Chal/obj/Debug/net6.0/Chal.AssemblyInfo.cs
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/Chal/obj/Debug/net6.0/Chal.csproj.CoreCompileInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/Chal/bin/Debug/net6.0/Chal
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/Chal/bin/Debug/net6.0/Chal.deps.json
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/Chal/bin/Debug/net6.0/Chal.runtimeconfig.json
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/Chal/bin/Debug/net6.0/Chal.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/Chal/bin/Debug/net6.0/Chal.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/Chal/obj/Debug/net6.0/Chal.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/Chal/obj/Debug/net6.0/refint/Chal.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/Chal/obj/Debug/net6.0/Chal.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/Chal/obj/Debug/net6.0/Chal.genruntimeconfig.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/Chal/obj/Debug/net6.0/ref/Chal.dll

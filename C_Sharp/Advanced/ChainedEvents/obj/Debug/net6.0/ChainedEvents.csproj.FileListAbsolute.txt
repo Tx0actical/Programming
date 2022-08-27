@@ -1,0 +1,15 @@
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/ChainedEvents/obj/Debug/net6.0/ChainedEvents.csproj.AssemblyReference.cache
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/ChainedEvents/obj/Debug/net6.0/ChainedEvents.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/ChainedEvents/obj/Debug/net6.0/ChainedEvents.AssemblyInfoInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/ChainedEvents/obj/Debug/net6.0/ChainedEvents.AssemblyInfo.cs
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/ChainedEvents/obj/Debug/net6.0/ChainedEvents.csproj.CoreCompileInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/ChainedEvents/bin/Debug/net6.0/ChainedEvents
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/ChainedEvents/bin/Debug/net6.0/ChainedEvents.deps.json
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/ChainedEvents/bin/Debug/net6.0/ChainedEvents.runtimeconfig.json
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/ChainedEvents/bin/Debug/net6.0/ChainedEvents.dll
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/ChainedEvents/bin/Debug/net6.0/ChainedEvents.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/ChainedEvents/obj/Debug/net6.0/ChainedEvents.dll
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/ChainedEvents/obj/Debug/net6.0/refint/ChainedEvents.dll
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/ChainedEvents/obj/Debug/net6.0/ChainedEvents.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/ChainedEvents/obj/Debug/net6.0/ChainedEvents.genruntimeconfig.cache
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/ChainedEvents/obj/Debug/net6.0/ref/ChainedEvents.dll

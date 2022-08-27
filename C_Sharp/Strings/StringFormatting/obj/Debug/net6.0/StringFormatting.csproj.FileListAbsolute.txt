@@ -1,0 +1,15 @@
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringFormatting/bin/Debug/net6.0/StringFormatting
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringFormatting/bin/Debug/net6.0/StringFormatting.deps.json
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringFormatting/bin/Debug/net6.0/StringFormatting.runtimeconfig.json
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringFormatting/bin/Debug/net6.0/StringFormatting.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringFormatting/bin/Debug/net6.0/StringFormatting.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringFormatting/obj/Debug/net6.0/StringFormatting.csproj.AssemblyReference.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringFormatting/obj/Debug/net6.0/StringFormatting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringFormatting/obj/Debug/net6.0/StringFormatting.AssemblyInfoInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringFormatting/obj/Debug/net6.0/StringFormatting.AssemblyInfo.cs
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringFormatting/obj/Debug/net6.0/StringFormatting.csproj.CoreCompileInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringFormatting/obj/Debug/net6.0/StringFormatting.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringFormatting/obj/Debug/net6.0/refint/StringFormatting.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringFormatting/obj/Debug/net6.0/StringFormatting.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringFormatting/obj/Debug/net6.0/StringFormatting.genruntimeconfig.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Strings/StringFormatting/obj/Debug/net6.0/ref/StringFormatting.dll

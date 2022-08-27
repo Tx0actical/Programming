@@ -1,0 +1,15 @@
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Delegates/bin/Debug/net6.0/Delegates
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Delegates/bin/Debug/net6.0/Delegates.deps.json
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Delegates/bin/Debug/net6.0/Delegates.runtimeconfig.json
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Delegates/bin/Debug/net6.0/Delegates.dll
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Delegates/bin/Debug/net6.0/Delegates.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Delegates/obj/Debug/net6.0/Delegates.csproj.AssemblyReference.cache
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Delegates/obj/Debug/net6.0/Delegates.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Delegates/obj/Debug/net6.0/Delegates.AssemblyInfoInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Delegates/obj/Debug/net6.0/Delegates.AssemblyInfo.cs
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Delegates/obj/Debug/net6.0/Delegates.csproj.CoreCompileInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Delegates/obj/Debug/net6.0/Delegates.dll
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Delegates/obj/Debug/net6.0/refint/Delegates.dll
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Delegates/obj/Debug/net6.0/Delegates.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Delegates/obj/Debug/net6.0/Delegates.genruntimeconfig.cache
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Delegates/obj/Debug/net6.0/ref/Delegates.dll

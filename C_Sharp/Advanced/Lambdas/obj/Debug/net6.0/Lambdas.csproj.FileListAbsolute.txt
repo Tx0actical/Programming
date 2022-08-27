@@ -1,0 +1,15 @@
+/Users/blackbird/Documents/GitHub/C_Sharp/Advanced/Lambdas/bin/Debug/net6.0/Lambdas
+/Users/blackbird/Documents/GitHub/C_Sharp/Advanced/Lambdas/bin/Debug/net6.0/Lambdas.deps.json
+/Users/blackbird/Documents/GitHub/C_Sharp/Advanced/Lambdas/bin/Debug/net6.0/Lambdas.runtimeconfig.json
+/Users/blackbird/Documents/GitHub/C_Sharp/Advanced/Lambdas/bin/Debug/net6.0/Lambdas.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/Advanced/Lambdas/bin/Debug/net6.0/Lambdas.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/Advanced/Lambdas/obj/Debug/net6.0/Lambdas.csproj.AssemblyReference.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Advanced/Lambdas/obj/Debug/net6.0/Lambdas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blackbird/Documents/GitHub/C_Sharp/Advanced/Lambdas/obj/Debug/net6.0/Lambdas.AssemblyInfoInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Advanced/Lambdas/obj/Debug/net6.0/Lambdas.AssemblyInfo.cs
+/Users/blackbird/Documents/GitHub/C_Sharp/Advanced/Lambdas/obj/Debug/net6.0/Lambdas.csproj.CoreCompileInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Advanced/Lambdas/obj/Debug/net6.0/Lambdas.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/Advanced/Lambdas/obj/Debug/net6.0/refint/Lambdas.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/Advanced/Lambdas/obj/Debug/net6.0/Lambdas.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/Advanced/Lambdas/obj/Debug/net6.0/Lambdas.genruntimeconfig.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Advanced/Lambdas/obj/Debug/net6.0/ref/Lambdas.dll

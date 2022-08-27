@@ -1,0 +1,16 @@
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/Comments/obj/Debug/net6.0/Comments.csproj.AssemblyReference.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/Comments/obj/Debug/net6.0/Comments.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/Comments/obj/Debug/net6.0/Comments.AssemblyInfoInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/Comments/obj/Debug/net6.0/Comments.AssemblyInfo.cs
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/Comments/obj/Debug/net6.0/Comments.csproj.CoreCompileInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/Comments/bin/Debug/net6.0/Comments
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/Comments/bin/Debug/net6.0/Comments.deps.json
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/Comments/bin/Debug/net6.0/Comments.runtimeconfig.json
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/Comments/bin/Debug/net6.0/Comments.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/Comments/bin/Debug/net6.0/Comments.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/Comments/bin/Debug/net6.0/Comments.xml
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/Comments/obj/Debug/net6.0/Comments.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/Comments/obj/Debug/net6.0/refint/Comments.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/Comments/obj/Debug/net6.0/Comments.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/Comments/obj/Debug/net6.0/Comments.genruntimeconfig.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/Comments/obj/Debug/net6.0/ref/Comments.dll

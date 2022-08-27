@@ -1,0 +1,15 @@
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Defining/obj/Debug/net6.0/Defining.csproj.AssemblyReference.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Defining/obj/Debug/net6.0/Defining.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Defining/obj/Debug/net6.0/Defining.AssemblyInfoInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Defining/obj/Debug/net6.0/Defining.AssemblyInfo.cs
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Defining/obj/Debug/net6.0/Defining.csproj.CoreCompileInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Defining/bin/Debug/net6.0/Defining
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Defining/bin/Debug/net6.0/Defining.deps.json
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Defining/bin/Debug/net6.0/Defining.runtimeconfig.json
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Defining/bin/Debug/net6.0/Defining.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Defining/bin/Debug/net6.0/Defining.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Defining/obj/Debug/net6.0/Defining.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Defining/obj/Debug/net6.0/refint/Defining.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Defining/obj/Debug/net6.0/Defining.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Defining/obj/Debug/net6.0/Defining.genruntimeconfig.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Defining/obj/Debug/net6.0/ref/Defining.dll

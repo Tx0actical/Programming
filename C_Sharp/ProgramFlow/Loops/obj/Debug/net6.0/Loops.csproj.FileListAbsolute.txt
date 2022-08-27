@@ -1,0 +1,15 @@
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/Loops/bin/Debug/net6.0/Loops
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/Loops/bin/Debug/net6.0/Loops.deps.json
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/Loops/bin/Debug/net6.0/Loops.runtimeconfig.json
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/Loops/bin/Debug/net6.0/Loops.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/Loops/bin/Debug/net6.0/Loops.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/Loops/obj/Debug/net6.0/Loops.csproj.AssemblyReference.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/Loops/obj/Debug/net6.0/Loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/Loops/obj/Debug/net6.0/Loops.AssemblyInfoInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/Loops/obj/Debug/net6.0/Loops.AssemblyInfo.cs
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/Loops/obj/Debug/net6.0/Loops.csproj.CoreCompileInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/Loops/obj/Debug/net6.0/Loops.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/Loops/obj/Debug/net6.0/refint/Loops.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/Loops/obj/Debug/net6.0/Loops.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/Loops/obj/Debug/net6.0/Loops.genruntimeconfig.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/Loops/obj/Debug/net6.0/ref/Loops.dll

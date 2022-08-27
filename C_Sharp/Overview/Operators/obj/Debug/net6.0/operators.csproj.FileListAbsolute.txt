@@ -1,0 +1,15 @@
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/operators/bin/Debug/net6.0/operators
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/operators/bin/Debug/net6.0/operators.deps.json
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/operators/bin/Debug/net6.0/operators.runtimeconfig.json
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/operators/bin/Debug/net6.0/operators.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/operators/bin/Debug/net6.0/operators.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/operators/obj/Debug/net6.0/operators.csproj.AssemblyReference.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/operators/obj/Debug/net6.0/operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/operators/obj/Debug/net6.0/operators.AssemblyInfoInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/operators/obj/Debug/net6.0/operators.AssemblyInfo.cs
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/operators/obj/Debug/net6.0/operators.csproj.CoreCompileInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/operators/obj/Debug/net6.0/operators.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/operators/obj/Debug/net6.0/refint/operators.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/operators/obj/Debug/net6.0/operators.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/operators/obj/Debug/net6.0/operators.genruntimeconfig.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Overview/operators/obj/Debug/net6.0/ref/operators.dll

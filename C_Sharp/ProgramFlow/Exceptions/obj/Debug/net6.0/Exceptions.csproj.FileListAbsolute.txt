@@ -1,0 +1,15 @@
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/Exceptions/bin/Debug/net6.0/Exceptions
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/Exceptions/bin/Debug/net6.0/Exceptions.deps.json
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/Exceptions/bin/Debug/net6.0/Exceptions.runtimeconfig.json
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/Exceptions/bin/Debug/net6.0/Exceptions.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/Exceptions/bin/Debug/net6.0/Exceptions.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/Exceptions/obj/Debug/net6.0/Exceptions.csproj.AssemblyReference.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/Exceptions/obj/Debug/net6.0/Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/Exceptions/obj/Debug/net6.0/Exceptions.AssemblyInfoInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/Exceptions/obj/Debug/net6.0/Exceptions.AssemblyInfo.cs
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/Exceptions/obj/Debug/net6.0/Exceptions.csproj.CoreCompileInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/Exceptions/obj/Debug/net6.0/Exceptions.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/Exceptions/obj/Debug/net6.0/refint/Exceptions.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/Exceptions/obj/Debug/net6.0/Exceptions.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/Exceptions/obj/Debug/net6.0/Exceptions.genruntimeconfig.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/Exceptions/obj/Debug/net6.0/ref/Exceptions.dll

@@ -1,0 +1,15 @@
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/Basics/bin/Debug/net6.0/Basics
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/Basics/bin/Debug/net6.0/Basics.deps.json
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/Basics/bin/Debug/net6.0/Basics.runtimeconfig.json
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/Basics/bin/Debug/net6.0/Basics.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/Basics/bin/Debug/net6.0/Basics.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/Basics/obj/Debug/net6.0/Basics.csproj.AssemblyReference.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/Basics/obj/Debug/net6.0/Basics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/Basics/obj/Debug/net6.0/Basics.AssemblyInfoInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/Basics/obj/Debug/net6.0/Basics.AssemblyInfo.cs
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/Basics/obj/Debug/net6.0/Basics.csproj.CoreCompileInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/Basics/obj/Debug/net6.0/Basics.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/Basics/obj/Debug/net6.0/refint/Basics.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/Basics/obj/Debug/net6.0/Basics.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/Basics/obj/Debug/net6.0/Basics.genruntimeconfig.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/Functions/Basics/obj/Debug/net6.0/ref/Basics.dll

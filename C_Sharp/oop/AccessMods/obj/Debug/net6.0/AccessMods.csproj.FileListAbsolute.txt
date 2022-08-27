@@ -1,0 +1,15 @@
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/AccessMods/obj/Debug/net6.0/AccessMods.csproj.AssemblyReference.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/AccessMods/obj/Debug/net6.0/AccessMods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/AccessMods/obj/Debug/net6.0/AccessMods.AssemblyInfoInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/AccessMods/obj/Debug/net6.0/AccessMods.AssemblyInfo.cs
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/AccessMods/obj/Debug/net6.0/AccessMods.csproj.CoreCompileInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/AccessMods/bin/Debug/net6.0/AccessMods
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/AccessMods/bin/Debug/net6.0/AccessMods.deps.json
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/AccessMods/bin/Debug/net6.0/AccessMods.runtimeconfig.json
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/AccessMods/bin/Debug/net6.0/AccessMods.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/AccessMods/bin/Debug/net6.0/AccessMods.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/AccessMods/obj/Debug/net6.0/AccessMods.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/AccessMods/obj/Debug/net6.0/refint/AccessMods.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/AccessMods/obj/Debug/net6.0/AccessMods.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/AccessMods/obj/Debug/net6.0/AccessMods.genruntimeconfig.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/AccessMods/obj/Debug/net6.0/ref/AccessMods.dll

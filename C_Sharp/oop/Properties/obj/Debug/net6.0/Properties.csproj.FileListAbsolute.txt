@@ -1,0 +1,15 @@
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Properties/obj/Debug/net6.0/Properties.csproj.AssemblyReference.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Properties/obj/Debug/net6.0/Properties.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Properties/obj/Debug/net6.0/Properties.AssemblyInfoInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Properties/obj/Debug/net6.0/Properties.AssemblyInfo.cs
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Properties/obj/Debug/net6.0/Properties.csproj.CoreCompileInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Properties/bin/Debug/net6.0/Properties
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Properties/bin/Debug/net6.0/Properties.deps.json
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Properties/bin/Debug/net6.0/Properties.runtimeconfig.json
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Properties/bin/Debug/net6.0/Properties.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Properties/bin/Debug/net6.0/Properties.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Properties/obj/Debug/net6.0/Properties.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Properties/obj/Debug/net6.0/refint/Properties.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Properties/obj/Debug/net6.0/Properties.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Properties/obj/Debug/net6.0/Properties.genruntimeconfig.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Properties/obj/Debug/net6.0/ref/Properties.dll

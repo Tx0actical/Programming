@@ -1,0 +1,15 @@
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Challenge/obj/Debug/net6.0/Challenge.csproj.AssemblyReference.cache
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Challenge/obj/Debug/net6.0/Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Challenge/obj/Debug/net6.0/Challenge.AssemblyInfoInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Challenge/obj/Debug/net6.0/Challenge.AssemblyInfo.cs
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Challenge/obj/Debug/net6.0/Challenge.csproj.CoreCompileInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Challenge/bin/Debug/net6.0/Challenge
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Challenge/bin/Debug/net6.0/Challenge.deps.json
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Challenge/bin/Debug/net6.0/Challenge.runtimeconfig.json
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Challenge/bin/Debug/net6.0/Challenge.dll
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Challenge/bin/Debug/net6.0/Challenge.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Challenge/obj/Debug/net6.0/Challenge.dll
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Challenge/obj/Debug/net6.0/refint/Challenge.dll
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Challenge/obj/Debug/net6.0/Challenge.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Challenge/obj/Debug/net6.0/Challenge.genruntimeconfig.cache
+/Users/blackbird/Documents/GitHub/C_Sharp_Advanced/Challenge/obj/Debug/net6.0/ref/Challenge.dll

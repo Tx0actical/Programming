@@ -1,0 +1,15 @@
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Inheritance/obj/Debug/net6.0/Inheritance.csproj.AssemblyReference.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Inheritance/obj/Debug/net6.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Inheritance/obj/Debug/net6.0/Inheritance.AssemblyInfoInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Inheritance/obj/Debug/net6.0/Inheritance.AssemblyInfo.cs
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Inheritance/obj/Debug/net6.0/Inheritance.csproj.CoreCompileInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Inheritance/bin/Debug/net6.0/Inheritance
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Inheritance/bin/Debug/net6.0/Inheritance.deps.json
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Inheritance/bin/Debug/net6.0/Inheritance.runtimeconfig.json
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Inheritance/bin/Debug/net6.0/Inheritance.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Inheritance/bin/Debug/net6.0/Inheritance.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Inheritance/obj/Debug/net6.0/Inheritance.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Inheritance/obj/Debug/net6.0/refint/Inheritance.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Inheritance/obj/Debug/net6.0/Inheritance.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Inheritance/obj/Debug/net6.0/Inheritance.genruntimeconfig.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/oop/Inheritance/obj/Debug/net6.0/ref/Inheritance.dll

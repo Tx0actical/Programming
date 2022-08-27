@@ -1,0 +1,15 @@
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/ConditionStatements/bin/Debug/net6.0/ConditionStatements
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/ConditionStatements/bin/Debug/net6.0/ConditionStatements.deps.json
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/ConditionStatements/bin/Debug/net6.0/ConditionStatements.runtimeconfig.json
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/ConditionStatements/bin/Debug/net6.0/ConditionStatements.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/ConditionStatements/bin/Debug/net6.0/ConditionStatements.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/ConditionStatements/obj/Debug/net6.0/ConditionStatements.csproj.AssemblyReference.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/ConditionStatements/obj/Debug/net6.0/ConditionStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/ConditionStatements/obj/Debug/net6.0/ConditionStatements.AssemblyInfoInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/ConditionStatements/obj/Debug/net6.0/ConditionStatements.AssemblyInfo.cs
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/ConditionStatements/obj/Debug/net6.0/ConditionStatements.csproj.CoreCompileInputs.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/ConditionStatements/obj/Debug/net6.0/ConditionStatements.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/ConditionStatements/obj/Debug/net6.0/refint/ConditionStatements.dll
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/ConditionStatements/obj/Debug/net6.0/ConditionStatements.pdb
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/ConditionStatements/obj/Debug/net6.0/ConditionStatements.genruntimeconfig.cache
+/Users/blackbird/Documents/GitHub/C_Sharp/ProgramFlow/ConditionStatements/obj/Debug/net6.0/ref/ConditionStatements.dll
