@@ -11,7 +11,6 @@ class A extends Thread {
         }
     }
 }
-
 class B extends Thread {
     public void run() {
         for (int j = 0; j < 5; j++) {
@@ -19,11 +18,11 @@ class B extends Thread {
         }
     }
 }
-
-
-public class test2 {
-    public static void main(String arg[]) { A a1=new A();
-        B b1=new B(); a1.start();
+public class multithreading {
+    public static void main(String arg[]) {
+        A a1 = new A();
+        B b1 = new B();
+        a1.start();
         b1.start();
     }
 }
