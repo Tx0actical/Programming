@@ -1,4 +1,4 @@
-package Java.src.servlet;
+package servlet.src;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
@@ -8,9 +8,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 
 public class HelloServlet extends HttpServlet {
-    public void doGet(HttpServletRequest req,
-                      HttpServletResponse res)
-            throws ServletException, IOException {
+    public void doGet(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
         PrintWriter out = res.getWriter();
 
         out.println("Hello, world!");

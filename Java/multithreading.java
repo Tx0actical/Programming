@@ -1,11 +1,11 @@
 class A extends Thread {
     synchronized public void run() {
         for (int i = 0; i < 5; i++) {
-            System.out.println(i);
+            System.out.println("a"+i);
             if (i == 3)
                 try {
                     sleep(1000);
-                } catch (Exception e) {
+                } catch (Exception ignored) {
 
                 }
         }
@@ -14,7 +14,7 @@ class A extends Thread {
 class B extends Thread {
     public void run() {
         for (int j = 0; j < 5; j++) {
-            System.out.println(j);
+            System.out.println("b"+j);
         }
     }
 }

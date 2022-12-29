@@ -1,5 +1,6 @@
 interface Student {
     void Display_Grade();
+
     void Display_Atten();
 }
 
@@ -21,7 +22,7 @@ class PG_Student implements Student {
     }
 
     public void Display_Atten() {
-        System.out.println("The attendence is " + attendence);
+        System.out.println("The attendance is " + attendence);
     }
 
     public void Display_Grade() {
@@ -68,8 +69,6 @@ class UG_Student implements Student {
             grade = "A";
         } else if (total < 250) {
             grade = "B";
-        } else if (total < 200) {
-            grade = "C";
         } else {
             grade = "D";
         }

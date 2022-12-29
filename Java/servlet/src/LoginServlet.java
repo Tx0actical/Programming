@@ -1,4 +1,4 @@
-package Java.src.servlet;
+package servlet.src;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -10,8 +10,7 @@ import java.io.PrintWriter;
 
 @WebServlet("/loginServlet")
 public class LoginServlet extends HttpServlet {
-    protected void doPost(HttpServletRequest request,
-                          HttpServletResponse response) throws ServletException, IOException {
+    protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         // read form fields
         String username = request.getParameter("username");
         String password = request.getParameter("password");

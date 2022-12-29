@@ -1,3 +1,5 @@
+package Java.src;
+
 import java.io.IOException;
 import java.io.PrintWriter;
 
@@ -8,9 +10,9 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 /**
- * Servlet implementation class EvenRange  
+ * Servlet implementation class Java.src.EvenRange
  */
-@WebServlet("/EvenRange")
+@WebServlet("/Java.src.EvenRange")
 public class EvenRange extends HttpServlet {
     private static final long serialVersionUID = 1L;
 
@@ -19,7 +21,7 @@ public class EvenRange extends HttpServlet {
      */
     public EvenRange() {
         super();
-        // TODO Auto-generated constructor stub    
+        // TODO Auto-generated constructor stub
     }
 
     /**
@@ -31,7 +33,7 @@ public class EvenRange extends HttpServlet {
      * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
      */
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        // TODO Auto-generated method stub    
+        // TODO Auto-generated method stub
 
         PrintWriter pw;
         response.setContentType("text/html");

@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+
+    <head>
+        <!--Specifing metadata about the HTML-->
+        <!--head is never displayed to the user-->
+        <meta charset="UTF-8"> <!--meta is always under meta-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>HTML webpage</title>
+        <link rel="icon" href="https://cdn-icons-png.flaticon.com/512/9095/9095072.png" type="image/png">
+    </head>
+
+    <body>
+
+        <header>
+            <h1>This is a header</h1>
+        </header>
+
+        <main>
+
+            <picture>
+                <figcaption>
+                    <img src="https://cdn-icons-png.flaticon.com/512/9095/9095072.png" alt="HTML Icon" height="100" width="100"/>
+                    This is an icon of HTML
+                </figcaption>
+            </picture>
+            
+            <title>Basic HTML</title>
+
+            <article>
+
+                <section>
+                    <h1>This is h1 heading</h1>
+                    <p>This is a paragraph</p>
+                </section>
+                <section>
+                    <h2><i>This is 2</i> heading with <em>emphasized text, showing time</em></h2>
+                    <time datetime="2022-12-22">This is date today</time>
+                </section>
+            
+                <h3>This is a recepie</h3>
+        
+                <ol>
+                    <li>First</li> <!--if <li> is used, browser will add another <li> pair-->
+                    <li>Second</li>
+                    <li>Third</li>
+                </ol>
+        
+                <strong>This is an important thing</strong>
+        
+                <code> #inlcude <iostream> </code>
+        
+                <p> This is a line <br> but it's broken <br> again <br> and <br> again </p>
+                H<sub>2</sub>O
+        
+                <p>This is my name (random strings -> adffadafadfasadfafadnakdjfb) Amit&nbsp;Panghal, in non-breaking space</p>
+        
+                <!-- HTML Attributes-->
+        
+                <audio controls loop autoplay>
+                    <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" type="audio/mpeg">
+                    <source src="https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" type="audio/ogg">
+                    This is a fallback text, in case the browser doesn't support the audio tag
+                </audio>
+        
+                <!--Links-->
+                <a href = "https://example.com">This is a link</a>
+        
+                <!--<video>
+                    <source src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4">
+                </video>-->
+                
+                <!--Embeddings-->
+        
+                <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/ugIuHWc6Nuc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
+        
+                <!--Generic Elements-->
+                <div class="box">
+                    <!--div is a block level element-->
+                    <p>
+                        This is a paragraph inside a div
+                    </p>
+                </div>
+                <span>
+                    <!--span is an inline element-->
+                </span>
+
+                <aside>
+                    <!--aside is a block level element-->
+                    <p>
+                        This is a paragraph inside an aside
+                    </p>
+                </aside>
+
+            </article>
+
+            <form action="success.html" method="get">
+                <label>name</label>
+                <input>
+                <label>email</label>
+                <input>
+                <button>Sign up to weekly malware!</button>
+            </form>
+    
+            <!--Script, usually put at the end-->
+            <!-- <script>
+                console.log("Hello World");
+            </script> -->
+
+            <script src="object.js" defer></script>
+        </main>
+
+        <footer>
+            <h1>This is a footer</h1>
+        </footer>
+    </body>
+</html>

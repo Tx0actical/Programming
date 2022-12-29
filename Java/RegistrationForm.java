@@ -1,7 +1,11 @@
 import javax.swing.*;
-import java.awt.event.*;
 import java.awt.*;
-import java.sql.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
 
 public class RegistrationForm implements ActionListener {
     JFrame frame;
@@ -28,6 +32,10 @@ public class RegistrationForm implements ActionListener {
         setLocationAndSize();
         addComponentsToFrame();
         actionEvent();
+    }
+
+    public static void main(String[] args) {
+        new RegistrationForm();
     }
 
     public void createWindow() {
@@ -89,9 +97,8 @@ public class RegistrationForm implements ActionListener {
         if (e.getSource() == registerButton) {
             try {
 //Creating Connection Object
-                Connection
-                        connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/myDatabase", "root", "");
-//Preapared Statemenť
+                Connection connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/myDatabase", "root", "");
+//Prepared Statemenť
                 PreparedStatement Pstatement = connection.prepareStatement("insert into student values(?,?,?,?,?,?,?)");
 //Specifying the values of it's parameter
                 Pstatement.setString(1, nameTextField.getText());
@@ -121,9 +128,5 @@ public class RegistrationForm implements ActionListener {
             cityTextField.setText("");
             emailTextField.setText("");
         }
-    }
-
-    public static void main(String[] args) {
-        new RegistrationForm();
     }
 }

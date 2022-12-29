@@ -1,5 +1,4 @@
 import java.util.Scanner;
-import java.lang.Math;
 
 public class roots {
     public static void main(String[] args) {
@@ -15,8 +14,7 @@ public class roots {
         d = (b * b) - (4 * a * c);
 
         System.out.println("Discriminant is " + d);
-        if (d < 0)
-            System.out.println("There are no real roots.");
+        if (d < 0) System.out.println("There are no real roots.");
         else {
             root1 = (-b + (Math.sqrt(d))) / (2 * a);
             root2 = (-b - (Math.sqrt(d))) / (2 * a);

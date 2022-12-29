@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class matrixmult {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
         int row1, col1, row2, col2;
         Scanner s = new Scanner(System.in);
         System.out.print("Enter number of rows in first matrix:");
@@ -15,9 +15,9 @@ public class matrixmult {
         if (col1 != row2) {
             System.out.println("Matrix multiplication is not possible");
         } else {
-            int a[][] = new int[row1][col1];
-            int b[][] = new int[row2][col2];
-            int c[][] = new int[row1][col2];
+            int[][] a = new int[row1][col1];
+            int[][] b = new int[row2][col2];
+            int[][] c = new int[row1][col2];
             System.out.println("Enter values for matrix A : \n");
             for (int i = 0; i < row1; i++) {
                 for (int j = 0; j < col1; j++)
